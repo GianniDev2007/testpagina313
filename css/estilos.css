@@ -1,0 +1,223 @@
+div {
+    width: 500px;
+    margin: 80px;
+    
+}
+
+aside p {
+    width: 280px;
+    background:#F7F09A;
+    padding:30px;
+    columns: #000000;
+    font-size:20px;
+    margin:5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    margin: 120px;
+}
+
+body {
+    background:#E7DFDF;
+}
+
+footer {
+    background:#050202;
+    height:45px;
+    
+}
+
+footer div {
+    padding:12px;
+    margin:50px;
+    color:#E2D4D4;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.menu {
+    width:800px;
+    background:#595656;
+    list-style:none;
+    margin:0;
+    padding:0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.menu li {
+    display:inline-block;
+}
+
+ul a {
+    color:#FFFFFF;
+    padding:10px 20px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul a:hover {
+    background:#ccc;
+    color:#000000;
+
+}
+
+header div {
+    margin:1px;
+    padding: 0px;
+}
+
+article .VDG1 {
+    background:#767575;
+    width:340px;
+    padding:16px;
+    color:#FFF;
+    margin:5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+article a {
+    color:#FFF;
+}
+
+article div {
+    background:#767575;
+    color:#FFF;
+    margin:5px;
+    width:340px;
+    padding:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+article .Donde {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+aside a {
+    color: #000000;
+}
+
+
+article .qso {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer div .twitter {
+    background:#000000;
+    color: #E1DCDC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:15px;
+}
+
+
+footer div .insta {
+    background:#000000;
+    color: #E1DCDC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:15px;
+    margin:40px;
+}
+
+
+footer div .insta:hover {
+    color:#E1DCDC;
+    background:#263232;
+}
+footer div .twitter:hover {
+    color:#E1DCDC;
+    background:#263232;
+}
+
+footer div {
+    margin: 15px;
+}
+
+footer div .youtube {
+    background:#000000;
+    color: #E1DCDC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:15px;
+    margin:1px;
+}
+
+footer div .youtube:hover {
+    color:#E1DCDC;
+    background:#263232;
+}
+
+
+.wrapper {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+article div .comodi {
+    font-size:15px;
+    font-family: 'Times New Roman', Times, serif;;
+}
+
+.correo a {
+    color: #263232;
+    font-size:20px;
+}
+
+.wrapper1 {
+    margin: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+section .cmdon {
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section .cmdon .parado {
+    background:#767575;
+    padding:10px;
+    margin:5px;
+    color:#FFF;
+    width: 340px;
+    font-size:20px;
+}
+
+section .cmdon .comodonar {
+    margin:5px;
+}
+
+
+
+section section div a {
+    width:90px;
+    background:#000000;
+    color:#FFF;
+    font-size:20px;
+    font-family: monospace;
+    padding:20px;
+    margin:1px;
+   }
+
+section section a:hover {
+    color: #FFF;
+    background:#595656;
+}
+
+
+.donfoo {
+    margin:80px;
+    width:550px;
+}
+
+.comufoo {
+    width:550px;
+}
+
+section section .comocom .parains {
+    background:#767575;
+    padding:10px;
+    color:#FFF;
+    font-size:20px;
+    width:300px;
+}
